@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"address","name":"dst","type":"address"}],"name":"call","outputs":[],"stateMutability":"nonpayable","type":"function"}]
